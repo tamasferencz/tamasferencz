@@ -28,7 +28,7 @@ Dockerized Node.js API for company and address management with Swagger.<br><br>
 
 <br><br>
 
-<b>🚀 <a href="https://github.com/tamasferencz/TinyAppHub.github.io" style="font-size: 25px;">TinyAppHub</a></b><br>
+<b>🚀 <a href="https://tinyapphub.github.io" style="font-size: 25px;">TinyAppHub</a></b><br>
 Personal coding playground featuring custom mini-apps, utilities, and hobby projects.<br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
